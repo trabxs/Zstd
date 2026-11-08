@@ -1,0 +1,324 @@
+{
+  "name": "GFS Catalog-zstd",
+  "packages": [
+    {
+      "titleId": "PPSA29343",
+      "title": "Beast of Reincarnation Deluxe Edition",
+      "version": "1.0",
+      "sizeBytes": 31138512896,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2203/db91bba6d10ccd925e1d33832a949659e81a1ac90d672cf8.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/QiUKlrldHQ"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA26136",
+      "title": "Avowed",
+      "version": "2.001",
+      "sizeBytes": 72799695667,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202512/0816/dfa7ebd82dace4215ce51ce74e91d2f8820527cd91ef9250.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/NohcdyZzvV"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/vmbCi6Ulpg"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/gxH4Yybk8q"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/B1qNI1q4bs"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA09663",
+      "title": "Dragon's Dogma 2 + ALL DLCs",
+      "version": "4.000.001",
+      "sizeBytes": 88476326298,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202311/1309/916b7de8938fa4ff658296086312a6cc386e5fb8c9d17275.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/2OsfJNEhss"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/qYnh14Ps2h"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/VOsnc6HHd9"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/KQn9u6Oyps"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/Uy0qojdq4d"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA30601",
+      "title": "Resonance: A Plague Tale Legacy",
+      "version": "1.002",
+      "sizeBytes": 67860483277,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/1510/edbe267fc70626ec1f21fd9c7540ac1645e218ff9e4c3019.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/0CNxNMtyUu"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA32259",
+      "title": "Abyssus",
+      "version": "2.000.005",
+      "sizeBytes": 5368709120,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2915/45fda97856c467add252d18c18e435f916d06471f340e8a0.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/BS2A46WLJC"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13197",
+      "title": "Stellar Blade Complete Edition",
+      "version": "1.014.001",
+      "sizeBytes": 40157944218,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/0212/b06dff4ff09b4bd891adb354e9ca8562d1af31c6508334ad.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/BNgeKDXD1Q"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA28502",
+      "title": "Pure Pool Pro",
+      "version": "1.011",
+      "sizeBytes": 15032385536,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2015/a26878b83b9c41f207389c5e6f25d3cda2ab6d2f28fcfd0b.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/hfe1bktQaq"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA17525",
+      "title": "Gears of War Reloaded",
+      "version": "1.008.001",
+      "sizeBytes": 65498251264,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202504/2818/65c55d8745cd383304d6d60619d3be97c3f56ded6f058291.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/frEF7v6LBV"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA11386",
+      "title": "007 First Light",
+      "version": "1.018",
+      "sizeBytes": 50573239910,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202610/0213/debbad276447e7d6accd27a3445c8dd9d8635ed78ca6d4bd.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/n5CG8eldcg"
+        },
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/NlSTPuCRNN"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA03846",
+      "title": "Dead Space Deluxe Edition",
+      "version": "1.000.006",
+      "sizeBytes": 32104880538,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/MD84ksvVU3KZL5fqeS8iOdaw.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/qSnovksCpI"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA01903",
+      "title": "Final Fantasy VII Remakes + DLCs",
+      "version": "1.005",
+      "sizeBytes": 107374182400,
+      "posterUrl": "https://image.api.playstation.com/vulcan/img/cfn/11307-dNapclgq_VqNtQ98Xp_LxovvAdjd5AknZhd_-k2Cckq9FPtKDXAHk-ODCfvDKChH6hkEO0VLtj7Vk4E-Z8G707oe0N.png",
+      "downloadLinks": [
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/IDFT5RQx92"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/OcyyTZichH"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/yOnCoSTDAj"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/E9f52kqBgr"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/BdJ38f80wb"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA31544",
+      "title": "Final Fantasy Resonance",
+      "version": "1.000.001",
+      "sizeBytes": 14066017894,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/3a5b644daaf4b0885cacc7a56fc91765ee7635dc55c8962e.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/HJWSrIPhTO"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA04027",
+      "title": "Cyberpunk 2077 + Phantom Liberty",
+      "version": "2.31",
+      "sizeBytes": 129922760704,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/6bAF2VVEamgKclalI0oBnoAe.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki pt.1",
+          "url": "https://vikingfile.com/f/qXLMfnrolR"
+        },
+        {
+          "name": "Viki pt.2",
+          "url": "https://vikingfile.com/f/EumvpioYOg"
+        },
+        {
+          "name": "Viki pt.3",
+          "url": "https://vikingfile.com/f/sV7GnmRFMa"
+        },
+        {
+          "name": "Viki pt.4",
+          "url": "https://vikingfile.com/f/MITDwWp0pY"
+        },
+        {
+          "name": "Viki pt.5",
+          "url": "https://vikingfile.com/f/JiAIHsOHHa"
+        },
+        {
+          "name": "Viki pt.6",
+          "url": "https://vikingfile.com/f/USssMKdqtn"
+        },
+        {
+          "name": "Viki pt.7",
+          "url": "https://vikingfile.com/f/nzqIjwcEKe"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA13446",
+      "title": "Aphelion",
+      "version": "1.003",
+      "sizeBytes": 25769803776,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2416/d055a1918df5d7fc3f2218878840e4d45c6c6c474daa21b5.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/DTfLHotuCU"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA07631",
+      "title": "Saros",
+      "version": "1.005.002",
+      "sizeBytes": 85899345920,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2318/89c3538003fb34870e745493412408eeeed5f02b32c55d23.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/FflO4M8bW1"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA30391",
+      "title": "Alien Rogue: Incursion Evolved Edition Part One",
+      "version": "1.000.009",
+      "sizeBytes": 13958643712,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202505/0600/bbfa7883bab4670175da783f706ecc34e61f945863ab1f52.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/dCa21y8Zir"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA29264",
+      "title": "Duskfade",
+      "version": "1.006",
+      "sizeBytes": 14066017894,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202607/0314/3574cdca93638a0ccd10f5f30c4f5b81b96391a07e216d81.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/OHyDylaV1z"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA24701",
+      "title": "Digimon Story Time Stranger + DLCs",
+      "version": "1.000.011",
+      "sizeBytes": 21796959027,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202506/1318/4b7994e18a27cf87e3ca8c79ed3fc5f5fa32bece7032c8c0.png",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/83FnJhLpT9"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA34547",
+      "title": "Control Resonant",
+      "version": "1.300.300",
+      "sizeBytes": 89442693939,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2212/a30316cd25cb98a4942e75b4c612cdfead3cb10c008c55b9.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/GCgu72YbJ9"
+        }
+      ]
+    }
+  ]
+}
