@@ -1,0 +1,31 @@
+{
+  "name": "GFS Catalog-zstd",
+  "packages": [
+    {
+      "titleId": "PPSA38500-2",
+      "title": "Grand Theft Auto VI",
+      "version": "v01.002",
+      "sizeBytes": 220976067481,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/2ebe6fa868c682fcd3d7c5bc866bc95697c02aa4c8f16dc2.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/Njcl2ynWcf#GTAVIPS5.7z"
+        }
+      ]
+    },
+    {
+      "titleId": "PPSA38500",
+      "title": "Grand Theft Auto VI",
+      "version": "v01.002",
+      "sizeBytes": 220976067481,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/2ebe6fa868c682fcd3d7c5bc866bc95697c02aa4c8f16dc2.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/JbQIQC9EMm#GrandTheft%20Auto%20VI%20"
+        }
+      ]
+    }
+  ]
+}
