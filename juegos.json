@@ -1,28 +1,31 @@
 {
+  "name": "GFS Catalog-zstd",
   "packages": [
     {
+      "titleId": "PPSA38500-2",
       "title": "Grand Theft Auto VI",
-      "id": "PPSA38500-2",
       "version": "v01.002",
-      "size": "205.8 GB",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/2ebe6fa868c682fcd3d7c5bc866bc95697c02aa4c8f16dc2.jpg",
-      "links": ["https://vikingfile.com/f/Njcl2ynWcf#GTAVIPS5.7z"],
-      "ampr": "0.5.1",
-      "firmware": "12.00-13.60",
-      "credits": "Rusos",
-      "notes": "Formato carpeta"
+      "sizeBytes": 220976067481,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/2ebe6fa868c682fcd3d7c5bc866bc95697c02aa4c8f16dc2.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/Njcl2ynWcf#GTAVIPS5.7z"
+        }
+      ]
     },
     {
+      "titleId": "PPSA38500",
       "title": "Grand Theft Auto VI",
-      "id": "PPSA38500",
       "version": "v01.002",
-      "size": "205.8 GB",
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/2ebe6fa868c682fcd3d7c5bc866bc95697c02aa4c8f16dc2.jpg",
-      "links": ["https://vikingfile.com/f/JbQIQC9EMm#GrandTheft%20Auto%20VI%20"],
-      "ampr": "FPKG",
-      "firmware": "12.00-13.60",
-      "credits": "Padrino Store/@granpadrino",
-      "notes": ""
+      "sizeBytes": 220976067481,
+      "posterUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202606/1818/2ebe6fa868c682fcd3d7c5bc866bc95697c02aa4c8f16dc2.jpg",
+      "downloadLinks": [
+        {
+          "name": "Viki",
+          "url": "https://vikingfile.com/f/JbQIQC9EMm#GrandTheft%20Auto%20VI%20"
+        }
+      ]
     }
   ]
 }
